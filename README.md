@@ -9,8 +9,12 @@
 
 - 🌱 Currently learning React and Backend Development <br/>
 - 🔒 Exploring Cybersecurity through Hack The Box <br/>
-- 🎯 Looking for Frontend/Web Development Internships <br/>
+- 🔍 delving into cloud and machine learning technologies <br/>
 - ⚡ Quick learner who enjoys building real-world projects <br/>
+
+## 🚀 Open to Internship Opportunities!
+
+I am actively looking for **Software Engineering Internship** roles where I can contribute to real-world projects and scale my skills in production environments. 
 
 
 ## 🌐 Socials:
